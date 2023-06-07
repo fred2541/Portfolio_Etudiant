@@ -1,5 +1,5 @@
 var images = [
-    "images/page2.jpg",
+    "images/page3-4.jpg",
     "images/page3.jpg",
     "images/page4.jpg",
     "images/page5.jpg",
